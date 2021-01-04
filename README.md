@@ -1,2 +1,2 @@
 # python-numpy
-ython3 numpy 공부
+python3 numpy 공부
